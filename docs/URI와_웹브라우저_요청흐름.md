@@ -9,7 +9,7 @@ Uniform Resource Identifier
 
 
 - URI는 로케이터(locator), 이름(name) 또는 둘 다 추가로 분류될 수 있음
-![img.png](URI.png)
+![img.png](images/URI.png)
 
 URL, URN
 - URL: Uniform Resource Locator
@@ -64,7 +64,7 @@ fragment
 
 ### 10. 웹 브라우저와 요청 흐름
 HTTP 메시지 전송
-![img.png](HTTP_메시지_전송.png)
+![img.png](images/HTTP_메시지_전송.png)
 
 
 
